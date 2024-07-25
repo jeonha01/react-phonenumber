@@ -3,12 +3,12 @@
 }
 
 .search {
-  width: 410px;
+  width: 390px;
   margin-top: 20px;
 }
 
 .add {
-  width: 410px;
+  width: 390px;
   margin-top: 20px;
 }
 
@@ -28,5 +28,5 @@
 
 .contactItem {
   border: 1px solid gainsboro;
-  padding: 30px;
+  padding: 12px;
 }
