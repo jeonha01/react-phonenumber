@@ -12,16 +12,13 @@ function App() {
   return (
     <div>
       <h1 className='title'>연락처</h1>
-      <Container>
+      <Container className="d-flex flex-column align-items-center justify-content-center">
         <Row>
           <Col>
             <ContactForm />
-          </Col>
-          <Col>
             <ContactList />
           </Col>
         </Row>
-
       </Container>
     </div>
   );
